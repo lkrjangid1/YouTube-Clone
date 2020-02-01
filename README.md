@@ -1,16 +1,50 @@
-# youtube
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Jay-Tillu/YouTube/master/assets/GitHub%20assets/appstore.png" alt="YouTube app logo" width="120" height="120">
+  </a>
+</p>
 
-A new Flutter application.
+<h3 align="center">YouTube</h3>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://img.shields.io/github/issues/Jay-Tillu/Xylophone">
+  <img src="https://img.shields.io/github/forks/Jay-Tillu/Xylophone">
+  <img src="https://img.shields.io/github/stars/Jay-Tillu/Xylophone">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+Fully functional YouTube clone in flutter with API.
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Learnings
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* How to play video on both Android and iOS.
+* How to work with video player on both Android and iOS.
+* How to use Dart to perform asynchronous tasks.
+* Understand async and await.
+* Learn about Futures and how to work with them.
+* How to network with the Dart http package.
+* What APIs are and how to use them to get data from the internet.
+* What JSONs are and how to parse them using the Dart convert package.
+* How to pass data forwards and backwards between screens using the Navigator.
+* How to handle exceptions in Dart using try/catch/throw.
+* Learn about the lifecycle of Stateful Widgets and how to override them.
+    
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jay-Tillu/YouTube/master/assets/GitHub%20assets/youtube%20gif.gif">
+</p>
+
+## Plugins
+
+* http:
+* image_ink_well: ^0.1.0
+* font_awesome_flutter: ^8.5.0
+* video_player:
+
+## Technologies
+
+* Flutter -- version 1.12.13+hotfix.4
+* Dart -- version 2.7.0
